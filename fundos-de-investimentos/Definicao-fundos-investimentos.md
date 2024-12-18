@@ -4,4 +4,4 @@
 
 
 ## Conceitos Básicos
-O **fundo de investimento** é uma <span style ="color:red"> conunhão de recursos, constituído sob a forma de condomínio de natureza especial, destinado à aplicação em ativos financeiros, bens e direitos, de acordo com a regra específica aplicável à categoria do fundo </span>.
+O **fundo de investimento** é uma <mark> conunhão de recursos, constituído sob a forma de condomínio de natureza especial, destinado à aplicação em ativos financeiros, bens e direitos, de acordo com a regra específica aplicável à categoria do fundo </mark>.
