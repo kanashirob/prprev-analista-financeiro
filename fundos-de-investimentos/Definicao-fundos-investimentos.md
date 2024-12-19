@@ -11,6 +11,12 @@ As Definições a seguir foram retiradas da [RCVM 175/2022](https://conteudo.cvm
 - [Categoria do fundo](#categoria-do-fundo)
 - [Cotas](#cotas)
 - [Cotista](#cotista)
+- [Custódia](#custódia)
+- [Custodiante](#custodiante)
+- [Data de integraliação](#data-de-integraliação)
+- [Data de conversão](#data-de-conversão)
+- [Distribuidor](#distribuidor)
+- [Gestor](#gestor)
 - [Regulamento](#regulamento)
 
 
@@ -62,4 +68,39 @@ São escriturais, nominativas e correspondem a frações do patrimônio da class
 ## Cotista
 Aquele que detém cotas de um fundo de investimento, inscrito no registro de cotistas de sua classe de cotas, o que pode se dar por meio de sistemas informatizados
 
+## Custódia
+Atividade de guarda, controle de movimentação e emissão de relatórios dos ativos financeiros que compõem uma carteira de investimentos.
+
+## Custodiante
+Instituição autorizada pela CVM para exercer a função de custódia
+> **Exemplo: Banco XP, Banco Itau**
+
+## Data de integraliação
+Data da efetiva disponibilização, para a classe, dos recursos investidos pelo investidor ou pelo distribuidor que atue por conta e ordem de seus clientes.
+> Exemplo:
+> - Um investidor aplica R$50.000,0 no Fundo XPTO<br>
+> - Conforme o regulamento do fundo, a **data de integralização** será no mesmo dia ítul (D+0), caso a aplicação seja feita até as 14h.
+> 1. Aplicação é realizada em **01/03/2024** às 11h
+> 2. O valor é creditado na conta do fundo e convertido em cotas, com base no valor da cota de fechamento do dia 01/03/204
+> 3. Valor da cota no dia **01/03/2024** = R$100,00
+> 4. A cota é integralizada no dia **01/03/2024**, conforme o estabelecido no regulamento e considerando o horário da aplicação.
+> A partir da data da integralização (**01/03/2024**) o investidor passa a ser oficialmente cotista do fundo e a participar dos resultados do mesmo, sejam eles positivos ou negativos
+
+## Data de conversão
+Data aferida consoante o prazo indicado no regulamento para apuração do valor da cota para efeito da aplicação e do pagamento do resgate ou amortização.
+>Exemplo:
+> - Um investidor realiza uma aplicação de R$100.000 no fundo XPTO
+> - Conforme o regulamento do fundo, a data de conversão para aplicação é de D+1, ou seja, o valor (R$100.000) será convertido em cotas no dia útil seguinte a aplicação.
+> 1. Data da aplicação = 01/05/2024 => Nessa data o valor da cota era de R$199,00
+> 2. Data da conversão = 02/05/2024 => Nessa data o valor da cota era R$200,00
+> - Nesse caso, o número de cotas integralizadas será de 500, calculados com base no valor da cota na data de conversão.
+
+## Distribuidor
+Intermediário contratado pelo [gestor](#Gestor), em nome do fundo para realizar a distribuição de cotas 
+
+## Gestor
+
 ## Regulamento
+
+
+<!-- Itens IX, X, XI e XII Deverão constar no arquivo "Classes e Sublcasses" -->
