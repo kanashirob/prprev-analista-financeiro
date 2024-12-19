@@ -1,58 +1,65 @@
-# Fundos de investimentos <!-- omit in toc -->
+# Definições <!-- omit in toc -->
+As Definições a seguir foram retiradas da [RCVM 175/2022](https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html)
 
-- [Conceitos Básicos](#conceitos-básicos)
-  - [Fundo de investimentos](#fundo-de-investimentos)
-    - [Condominio aberto](#condominio-aberto)
-    - [Condomínio fechado](#condomínio-fechado)
-- [Classes e subclasses de cotas](#classes-e-subclasses-de-cotas)
+- [Administrador (do fundo)](#administrador-do-fundo)
+- [Agência de classificação de risco de crédito](#agência-de-classificação-de-risco-de-crédito)
+- [Amortização](#amortização)
+- [Anexos (descritivo de classes)](#anexos-descritivo-de-classes)
+- [Apêndices (descritivos de subclasses)](#apêndices-descritivos-de-subclasses)
+- [Assembleia especial de cotistas](#assembleia-especial-de-cotistas)
+- [Assembleia geral de cotistas](#assembleia-geral-de-cotistas)
+- [Categoria do fundo](#categoria-do-fundo)
+- [Cotas](#cotas)
+- [Cotista](#cotista)
+- [Regulamento](#regulamento)
 
-## Conceitos Básicos
-### Fundo de investimentos
- É uma <mark> conunhão de recursos, constituído sob a forma de condomínio de natureza especial, destinado à aplicação em ativos financeiros, bens e direitos, de acordo com a regra específica aplicável à categoria do fundo </mark>.
 
-A **comunhão de recursos** apresenta melhores resultados do que se fossem aplicados individualmente. Esta é a lógica para a formação de um fundo de investimentos.
 
-Os fundos de investimentos são constituídos sob a forma de **condomínio (aberto e fechado)** e seu patrimônio é dividido em **cotas.** Tendo em vista que os fundos investem em ativos financeiros, as cotas refletem o valor deste patrimônio. Por isso o valor das cotas varia no decorrer do tempo, acompanhando o valor dos ativos financeiros que o fundo possui em carteira.
+## Administrador (do fundo)
+Pessoa Jurídica autorizada pela CVM para o exercício profissional de administração de carteiras de valores mobiliários, na categoria de "administrador fiduciário", e responsável pela administração do fundo
+- Responsabilidades:
+  - Garantir o cumprimento do [regulamento](#regulamento) do fundo
+  - Contratar e supervisionar os prestadores de serviços do fundo
+  - Assegurar a elaboração e divulgação dos documentos 
+  - Zelar pela proteção dos direitos dos cotistas, como apuração e distribuição dos rendimentos
+> **Exemplo: Itaú, Banco do Brasil e etc.**
 
-Dessa forma, <mark>cabe ao administrador do fundo o cálculo diário do valor da cota e do patrimônio de fundo aberto, salvo para fundos que não ofere </mark>
-> Para fundos sem liquidez diária, o cálculo do valor da cota é realizado em periodicidade compatível com a liquidez do fundo, **desde que previsto em regulamento**
+## Agência de classificação de risco de crédito
+Pessoa Jurídica registrada ou reconhecida pela CVM que exerce profissionalmente a atividade de classificação de crédito no âmbito do mercado de valores mobiliários
+- Responsabilidades:
+  - Assegurar imparcialidade e independência na emissão das classificações
+  - Divulgar de forma transparente os critérios e metodologias utilizados
+  - Estar em conformidade com as normas de registro e atuação da CVM
+> **Exemplos: Fitch Ratings, Moodys, S&P e etc.**
 
-#### Condominio aberto
-Permite o resgate a qualquer tempo
+## Amortização
+Pagamento uniforme realizado a todos os cotistas de determinada classe ou subclasse, de parcela do valor de suas cotas, sem redução do número de cotas emitidas, efetuado em conformidade com o disposto no regulamento ou com deliberação da [assembleia geral de cotistas.](#assembleia-geral-de-cotistas)
+>**Exemplo:** O FII "FII Alfa Renda" vende um de seus imóveis por R$10 milhões de reais. Após dedução das despesas relacionadas à operação, o fundo decide distribuir o valor líquido de R$9 milhões de reais aos cotistas por meio de amortização.<br>
+>**Detalhes da Amortização:** 
+>- O fundo possui 1 milhão de cotas
+>- Serão distribuídos R$9 milhões aos cotista
+>- O número de cotas permanecerá inalterado, mas o valor patrimonial da cota será reduzido, refletindo a saída de recursos do fundo.
 
-Via de regra, não é possível transferir cotas de um fundo aberto.
-> As exceções são:
-> - Decisão judicial ou arbitral
-> - Operações de cessão fiduciária
-> - execução de garantia
-> - sucessão universal
-> - dissolução de matrimônio ou união estável por via judicial ou escritura pública com partilha de bens
-> - **transferência de administração ou portabilidade de planos de previdência**
+## Anexos (descritivo de classes)
+Partes do [regulamento](#regulamento) do fundo essenciais à constituição de [classes](./Classes-e-Subclasses.md) de cotas, que regem o funcionamento das classes de modo a complementar ao disciplinado pelo regulamento.
 
-#### Condomínio fechado
-Permite o resgate das cotas ao término do prazo de duração do fundo.
+## Apêndices (descritivos de subclasses)
+Partes do anexo da classe que disciplinam as características específicas de cada [subclasse](./Classes-e-Subclasses.md) de cotas, se houver.
 
-Quando o investidor deseja sair do fundo deve vender as cotas no mercado de valores mobiliários. Portanto podem ser transferidas mediante:
-- Termo de cessão e transferência (assinado por ambas partes)
-- Negociação em mercados organizados (Bolsa de valores)
+## Assembleia especial de cotistas
+Assembleia para a qual são convocados somente os cotistas de determinada [classe ou subclasse](./Classes-e-Subclasses.md) de cotas
 
-> Nos fundos de condomínio aberto, quando um investidor entra no fundo são criadas novas cotas e quando ele sai essas cotas são extintas, ou seja, há variação no patrimônio do fundo com a compra e venda de cotas
+## Assembleia geral de cotistas
+Assembleia para a qual são convocados **TODOS** os cotistas
 
-> Nos fundos de condomínio fechado, quando um investidor entra no fundo ele compra cotas de outro investidor, ou seja, não ocorre variação do patrimônio do fundo com a compra venda de cotas.
+## Categoria do fundo
+Classificação decorrente da [política de investimentos] do fundo, conforme previstas nos Anexos Normativos.
+> **Exemplos:** Fundos de renda fixa, Fundos de Açoes, Fundos multimercados e etc.
 
-## Classes e subclasses de cotas
-Com a resolução CVM 175 os fundos são estruturados em 3 níveis, sendo as classes (2) e subclasses (3) níveis facultativos:
+## Cotas
+São escriturais, nominativas e correspondem a frações do patrimônio da classe de cotas, conferindo direitos e obrigações aos cotistas, conforme previstos no regulamento
 
-1. **Fundo de Invesetimento** 
-    - Possui CNPJ exclusivo onde está vinculado o regulamento, os prestadores de serviço (gestor e administrador) e sua classificação tributária
-2. **Classes**
-    - Possuem CNPJs próprios e patrimônios segregados dentro do fundo de investimento. É nesse nível que os recursos são alocados.
-    - Devem possuir a mesma categoria e classificação tributária do fundo 
-    - Cada classe deve ter um anexo que complementará o regulamento do fundo.
-3. **Subclasses**  
-    - Não possuem CNPJ próprio, são identificadas por um código junto a CVM.
-    - Nesse nível são definidos:
-      - Público-alvo
-      - Prazos de aplicação/resgate/amortização
-      - Taxa de administração, gestão e distribuição 
-    - Essas informações devem estar presentes em apêndices e anexos ao regulamento do fundo. 
+## Cotista
+Aquele que detém cotas de um fundo de investimento, inscrito no registro de cotistas de sua classe de cotas, o que pode se dar por meio de sistemas informatizados
+
+## Regulamento
