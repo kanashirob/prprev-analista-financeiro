@@ -30,7 +30,8 @@ As Definições a seguir foram retiradas da [RCVM 175/2022](https://conteudo.cvm
 - [27. Taxa de ingresso](#27-taxa-de-ingresso)
 - [28. Taxa de saída](#28-taxa-de-saída)
 - [29. Taxa máxima de distribuição de cotas](#29-taxa-máxima-de-distribuição-de-cotas)
-- [Cota e seu valor](#cota-e-seu-valor)
+- [30. Cota e seu valor](#30-cota-e-seu-valor)
+- [31. Fato relevante](#31-fato-relevante)
 
 
 
@@ -173,8 +174,24 @@ Taxa paga pelo cotista ao patrimônio da classe ao resgatar recursos de uma clas
 ## 29. Taxa máxima de distribuição de cotas
 Taxa cobrada do fundo, representativa do montante total para remuneração dos distribuidores, expressa em percentual anual do patrimônio líquido (base 252 dias)
 
-## Cota e seu valor
+## 30. Cota e seu valor
 As cotas são escriturais, nominativas e correspondem a frações do patrimônio da classe de cotas, conferindo direitos e obrigações aos cotistas, conforme previstos no regulamento.
 
 O valor da cota resulta da divisão do valor do patrimônio	líquido da respectiva classe pelo número de cotas da mesma [classe](./Classes-e-Subclasses.md). Caso exista [subclasses](./Classes-e-Subclasses.md), o valor da cota resulta da divisão do valor do patrimônio líquido	atribuído à respectiva subclasse pelo número de cotas da mesma subclasse
-<!-- Itens IX, X, XI e XII Deverão constar no arquivo "Classes e Sublcasses" -->
+
+## 31. Fato relevante
+Considera-se relevante qualquer fato que possa influir de modo ponderável no valor das cotas ou na decisão dos investidores de adquirir, resgatar, alienar ou manter cotas.<br>
+Os fatos relevantes devem ser:
+- Comunicado a todos os cotistas da classe afetada
+- Informado às entidades administradoras de mercados organizdos onde as cotas esteham admitidas à negociação
+- Divulgado por meio do site da CVM
+- Mantido nos sites dos prestadores de serviços essenciais, e no site do distribuidor caso a distribuição esteja em curso
+  
+>Exemplos:
+>-
+>- Alteração do tratamento tributário conferido ao fundo, classe ou cotistas
+>- Contratação de formador de mercado e término de prestação desse serviço
+>- Contratação de agência de classificação de risco, caso não estabelecida em regulamento
+>- Alteração de prestador de serviço essencial
+>- Fusão, incorporação, cisão ou transformação de classe de cotas
+>- Emissão de cotas de **classe fechada**
