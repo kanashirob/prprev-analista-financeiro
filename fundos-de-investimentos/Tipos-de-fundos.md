@@ -8,7 +8,12 @@
   - [Fundos Cambiais](#fundos-cambiais)
   - [Fundos Multimercados](#fundos-multimercados)
 - [FIDC - Fundos de Investimento de Direitos Creditórios](#fidc---fundos-de-investimento-de-direitos-creditórios)
+- [FII - Fundo de Investimento Imobiliário](#fii---fundo-de-investimento-imobiliário)
 - [FIP - Fundos de Investimento de Participações](#fip---fundos-de-investimento-de-participações)
+  - [FIP Capital Semente](#fip-capital-semente)
+  - [FIP Capital Emergente](#fip-capital-emergente)
+  - [FIP Infraestrutura (FIP-IE) e FIP Pesquisa, Desenvolvimento e Inovação (FIP-PD\&I)](#fip-infraestrutura-fip-ie-e-fip-pesquisa-desenvolvimento-e-inovação-fip-pdi)
+  - [FIP multiestratégia](#fip-multiestratégia)
 
 
 ## Fundos de Investimento Financeiro
@@ -130,4 +135,46 @@ Cotas intermediárias entre as Sênior e as subordinadas.
 ### Cotas de performance <!-- omit in toc -->
 São cotas que possuem rentabilidade variável, dependendo do desempenho da carteira do fundo. Quando a carteira possui um desempenho bom, as cotas de performance tem uma rentabilidade melhor do que as demais.
 
+## FII - Fundo de Investimento Imobiliário
+Constituído sob a forma de condomínio fechado destinado a aplicação em empreendimentos imobiliários.<br>
+As aplicações podem ser feitas nos seguintes ativos:
+- Quaisquer direitos reais sobre bens imóveis
+- Ações ou cotas de sociedades cujo propósito se enquadre nas atividades permitidas aos FIIs
+- Cotas de [FIP](#fip---fundos-de-investimento-de-participações) ou [FIDC](#fidc---fundos-de-investimento-de-direitos-creditórios), desde que tenham como política de investimento, exclusivamente, atividades permitidas aos FIIs
+- Certificados de potencial adicional de construção (CEPAC) emitidos com base nas normas da CVM
+- Cotas de outros FIIs
+- Letras hipotecárias, letras de crédito Imobiliário e letras imobilirias garantidas
+
+> Os FIIs não possuem limites de contratação em relação à aplicação de seus recursos 
+
+Via de regra, os investidores PF são isentos de imposto de renda desde que:
+  - As cotas dos FIIs sejam admitidas à negociação exclusivamente em bolsa de valores ou no mercado de balcão organizado
+  - O FII possua pelo menos 50 cotistas
+  - Não será concedido **ao cotista PF titular de quotas que represente 10% ou mais da totalidade de quotas emitidas pelo fundo**
+
 ## FIP - Fundos de Investimento de Participações
+Constituído sob a forma de condomínio fechado destinado à aquisição de ações e demais títulos de valores mobiliários conversíveis ou permutáveis em ações de emissão de companhias de capital **abertou ou fechado, participando no processo decisório da companhia investida. <br>
+No mínimo 90% do fundo deve estar investido nos títulos citados anteriormente.
+>- Desde que respeitem a natureza econômica, os FIPs podem investir até 33% do seu PL em ativos no exterior
+>- O FIP é destinado somente para investidores qualificados
+
+Os FIPs podem ser classificados nas seguintes categorias quanto à composição de suas carteiras.
+
+### FIP Capital Semente
+Investe em empresas com receita bruta anual de até R$20.000.000,00 (vinte milhões de reais) apurada no exercício social encerrado no ano anterior, sem que tenha apresentado receita superior a esse limite nos últimos 3 anos. <br>
+As sociedades investidas não podem possuir como controlador, sociedade ou grupo de sociedades com ativos totais superior a R$100.000.000,00 (cem milhões de reais) ou receita bruta anual superior a R$150.000.000,00 (cento e cinquenta milhões de reais) no exercício social imediatamente anterior ao primeiro aporte da classe.
+
+### FIP Capital Emergente
+Investe em empresas com receita bruta anual de até R$400.000.000,00 (quatrocentos milhões de reais) apurada no exercício social encerrado no ano anterior, sem que tenha apresentado receita superior a esse limite nos últimos 3 anos. <br>
+As sociedades investidas não podem possuir como controlador, sociedade ou grupo de sociedades com ativos totais superior a R$320.000.000,00 (trezentos e vinte milhões de reais) ou receita bruta anual superior a R$400.000.000,00 (quatrocentos milhões de reais) no exercício social imediatamente anterior ao primeiro aporte da classe.
+
+### FIP Infraestrutura (FIP-IE) e FIP Pesquisa, Desenvolvimento e Inovação (FIP-PD&I)
+Deve investir em ações ou títulos mobiliários conversíveis ou permutáveis em ações de empresas de capital abertou ou fechado que desenvolvam respectivamente, novos projetos de infraestrutura ou de produção econômica intensiva em pesquisa, desenvolvimento e inovação no **território nacional**, nos setores de:
+- Energia
+- Transporte
+- Água e saneamento básico
+- Irrigação
+- Outras áreas tidas como prioritárias pelo Poder Executivo Federal.
+
+### FIP multiestratégia 
+É aquele que não se classifica nas demais categorias por admitir investimento em diferentes tipos de portes de sociedade investida, desde que respeitada a regra de participar nas decisões estratégicas das sociedades investidas.
