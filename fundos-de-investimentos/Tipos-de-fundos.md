@@ -14,6 +14,7 @@
   - [FIP Capital Emergente](#fip-capital-emergente)
   - [FIP Infraestrutura (FIP-IE) e FIP Pesquisa, Desenvolvimento e Inovação (FIP-PD\&I)](#fip-infraestrutura-fip-ie-e-fip-pesquisa-desenvolvimento-e-inovação-fip-pdi)
   - [FIP multiestratégia](#fip-multiestratégia)
+- [ETF Exchange Traded Funds](#etf-exchange-traded-funds)
 
 
 ## Fundos de Investimento Financeiro
@@ -178,3 +179,25 @@ Deve investir em ações ou títulos mobiliários conversíveis ou permutáveis 
 
 ### FIP multiestratégia 
 É aquele que não se classifica nas demais categorias por admitir investimento em diferentes tipos de portes de sociedade investida, desde que respeitada a regra de participar nas decisões estratégicas das sociedades investidas.
+
+## ETF Exchange Traded Funds
+Fundos que possuem como objetivo investir em uma carteira de ações que busca replicar a carteira e a rentabilidade de um índice de referência, como ibovespa ou qualquer outro índice de ações ou renda fixa reconhecido pela CVM.
+<br>
+É vedado ao ETF constituir classe de cota:
+- Alavancada
+- Inversa, que visem refletir um desempenho oposto àquele índice de referência
+- sintéticas, que visem refletir o desempenho do índice de referência por meio de contratos derivativos, exceto por meio de posições em mercados futuros prevista em norma.
+
+Portanto, para refletir a variação e rentabilidade do índice de referência, a classe de cotas deve manter 95%, no mínimo, de seu patrimônio aplicado em:
+- Ativos financeiros que compõem o índice de referência
+- Posição líquida em contratos futuros
+- Cotas de outros fundos do índice que visem refletir as variações e rentabilidade do índice de referência da classe investidora (Investir em outros ETFs que possuam o mesmo índice de referência)
+> Casos excepcionais de desenquadramento devem ser justificados por escrito à CVM no prazo máximo de 5 dias úteis, a contar da data de ocorrência
+
+O Excesso deve ser aplicado em renda fixa, derivativos de hedge ou outros ativos financeiros com liquidez, que não fazem parte da composição do índice.
+
+> É vedada ao ETF:
+>- Cobrar taxa de administração
+>- Contrair empréstimos
+>- Realizar operaçoes fora do mercado organizado de valores mobiliários.
+>- Praticar qualquer ato na qualidade de acionista que possa impedir as negociações das ações em bolsa de valores 
