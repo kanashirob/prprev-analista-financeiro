@@ -37,3 +37,8 @@ Podem ser classificados como
 2. Ativos de renda fixa de emissão ou coobrigação de instituições financeiras
 3. Operações compromissadas ou lastreadas nos itens 1 e 2
 4. Cotas de classes que invistam exclusivamente nos itens 1, 2 ou 3
+
+## Captação com esforços restritos
+Oferta de valores mobiliários direcionada a um número limitado de investidores qualificados, conforme regras da CVM.
+<br>
+Esta oferta não necessita de registro, mas deve ser comunicada à CVM e não podem ser divulgadas nas mídias públicas para atrair mais investidores.
