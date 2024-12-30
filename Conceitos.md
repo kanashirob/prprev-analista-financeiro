@@ -1,4 +1,12 @@
 # Conceitos Importantes <!-- omit in toc -->
+- [Investidor Profissional](#investidor-profissional)
+- [Investidores Qualificados](#investidores-qualificados)
+- [Direitos Creditórios](#direitos-creditórios)
+  - [Direitos Creditórios Padronizados ](#direitos-creditórios-padronizados-)
+- [Ativos financeiros de liquidez](#ativos-financeiros-de-liquidez)
+- [Captação com esforços restritos](#captação-com-esforços-restritos)
+- [Cláusula de subordinação](#cláusula-de-subordinação)
+- [Patrimônio de Referência](#patrimônio-de-referência)
 
 
 ## Investidor Profissional
@@ -42,3 +50,19 @@ Podem ser classificados como
 Oferta de valores mobiliários direcionada a um número limitado de investidores qualificados, conforme regras da CVM.
 <br>
 Esta oferta não necessita de registro, mas deve ser comunicada à CVM e não podem ser divulgadas nas mídias públicas para atrair mais investidores.
+
+## Cláusula de subordinação
+Dispositivo jurídico-financeiro presente em contratos de ou instrumentos de dívida estabelece que a obrigação com esta cláusula será realizado somente após o cumprimento de outras obrigações prioritárias em caso de liquidação ou inadimplência da entidade emissora.
+
+## Patrimônio de Referência
+Representa o capital total que uma instituição possui para fazer frente aos riscos associados às suas operaçoes, garantindo solidez e estabilidade ao sistema financeiro. É dividido em 2 partes:
+### Nível 1(PR1)<!-- omit in toc -->
+Capital de maior qualidade, composto por elementos mais sólidos e de maior liquidez
+- Capital Social Integralizado
+- Reserva de Lucros
+- Lucros Acumulados
+
+### Nível 2 (PR2)<!-- omit in toc -->
+Capital de menor qualidade mas que ainda podem ser utilizados para absorver perdas.
+- Instrumentos híbridos de capital e dívida (como títulos subordinados)
+- Reservas específicas
